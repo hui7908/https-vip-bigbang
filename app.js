@@ -1,5 +1,6 @@
 const source='https://ygfamily.com/en/artists/bigbang/discography/312';
 const items=[
+{id:'new-song-IQI2qaqHFlg',title:'新歌推薦',category:'發行資訊',date:'新增 · 2026.11.20',text:'來聽聽這首新加入的歌曲，也可前往 YouTube 探索完整播放清單。',letter:'♫',style:'channel',url:'https://www.youtube.com/watch?v=IQI2qaqHFlg&list=OLAK5uy_lRHT2OpFAKJRKIo36wEY8A6ftV77KGJkA',label:'YouTube · 聆聽歌曲'},
 {id:'biiig',title:'BiiiG',category:'發行資訊',date:'2026.08.19',text:'官方作品目錄收錄的數位單曲。前往官方頁面查看發行資料。',image:'https://ygfamily.com/contents/images/2026/08/cover%28960x960%29_1.jpg',url:source,label:'YG Entertainment'},
 {id:'still',title:'Still Life · 春夏秋冬',category:'經典回顧',date:'2022.04.05',text:'用溫暖的樂隊聲響，回望青春與四季。再次走進這首值得珍藏的作品。',image:'https://ygfamily.com/contents/images/2023/04/bigbang-album-still%2Blife.jpg',url:'https://yg-life.com/archives/174020?lang=zh',label:'YG LIFE · 官方 MV'},
 {id:'made',title:'MADE · 完整專輯',category:'經典回顧',date:'2016.12.13',text:'BIGBANG 第三張正規專輯。收藏這段音樂旅程，回到你最熟悉的旋律。',letter:'MADE',style:'made',url:source,label:'YG Entertainment'},
